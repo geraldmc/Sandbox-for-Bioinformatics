@@ -1,51 +1,51 @@
-# Project Title
+## Sandbox for Bioinformatics 
 
-A `Sandbox for Bioinformatics` . 
+A `Sandbox for Bioinformatics` is a place to play around with the bioinformatic Tower of Babel of various data sources. 
 
-## Description
+### Description
 
 A `Sandbox` for `pre`-building apps with bioinformatics APIS and data sources. 
 
-## Getting Started
+### Getting Started
 
-### Dependencies
-
-* TBD
-
-### Installing
+#### Dependencies
 
 * TBD
 
-### Executing program
+#### Installing
+
+* TBD
+
+#### Executing program
 
 * TBD
 ```
 Here's some code... (TBD)
 ```
 
-## Help
+### Help
 
 ```
 Here's some help... (TBD)
 ```
 
-## Authors
+### Authors
 
 Contributors names and contact info
 
 Gerald McCollam
 gerald.mccollam@gmail.com
 
-## Version History
+### Version History
 
 * 0.1
     * Initial Release
 
-## License
+### License
 
 TBD
 
-## Acknowledgments
+### Acknowledgments
 
 Inspiration, code snippets, etc.
 * [Biopython](https://github.com/biopython/biopython)
