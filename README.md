@@ -1,10 +1,10 @@
 ## Sandbox for Bioinformatics 
 
-A `Sandbox for Bioinformatics` is a place to play around with the bioinformatic [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel). 
+The `Sandbox for Bioinformatics` is a safe place to play with the bioinformatic [Tower of Babel](https://www.iqt.org/library/the-tower-of-bioinformatics-babel). 
 
 ### Description
 
-A `Sandbox` for `pre`-building apps with bioinformatics APIS and data sources. 
+A `sandbox` for `pre`-building apps with bioinformatics APIS and data sources. 
 
 ### Getting Started
 
